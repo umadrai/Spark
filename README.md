@@ -1,7 +1,8 @@
 # Spark (PySpark)
 
 Experiment 1: Basic Analysis and Joining Collections
-  It contains the basic analysis of the given dataset (citeulike webservice) and Joining of the collections for both RDDs and DataFrames.
+  Basic analysis of the given dataset (citeulike).
+  Joining of the collections for both RDDs and DataFrames.
   Count word problems and shows the top 10 words for RDDs.
 
 Experiment 2: About the Collaborative Filtering Recommender System.
